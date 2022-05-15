@@ -4367,3 +4367,4 @@ spawn(function()
       end)
    end
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/Script-BF-Copy-ma/main/README.md"))()
