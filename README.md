@@ -4367,4 +4367,3 @@ spawn(function()
       end)
    end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/copy-kao-ma/main/README.md"))()
